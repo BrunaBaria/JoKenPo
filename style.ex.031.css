@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(192, 201, 252);
+    
+}
+h1{
+    font:bold 16pt arial;
+    text-align: center;
+}
+h2{
+    font: normal 14pt arial;
+}
+section{
+    background-color:rgb(231, 235, 238) ;
+    padding: 10px;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+    text-align: center;
+}
+footer{
+    font-style: italic;
+    text-align: center;
+    margin-top: 10px;
+}
+div#resultado{
+    margin-top: 10px;
+    font: bold 16pt;
+}
+
